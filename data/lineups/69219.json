@@ -58,7 +58,7 @@
   }, {
     "player_id" : 5558,
     "player_name" : "Rafael Márquez Álvarez",
-    "player_nickname" : "Rafael Márquez ",
+    "player_nickname" : "Rafael Márquez",
     "jersey_number" : 4,
     "country" : {
       "id" : 147,
@@ -121,7 +121,7 @@
   }, {
     "player_id" : 26613,
     "player_name" : "Maxwell Scherrer Cabelino Andrade",
-    "player_nickname" : null,
+    "player_nickname" : "Maxwell",
     "jersey_number" : 19,
     "country" : {
       "id" : 31,

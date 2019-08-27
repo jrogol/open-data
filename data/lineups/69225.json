@@ -40,7 +40,7 @@
   }, {
     "player_id" : 5558,
     "player_name" : "Rafael Márquez Álvarez",
-    "player_nickname" : "Rafael Márquez ",
+    "player_nickname" : "Rafael Márquez",
     "jersey_number" : 4,
     "country" : {
       "id" : 147,
@@ -76,7 +76,7 @@
   }, {
     "player_id" : 19298,
     "player_name" : "Samuel Eto'o Fils",
-    "player_nickname" : "Samuel Eto'o ",
+    "player_nickname" : "Samuel Eto'o",
     "jersey_number" : 9
   }, {
     "player_id" : 20125,
@@ -99,7 +99,7 @@
   }, {
     "player_id" : 20169,
     "player_name" : "Seydou Kéita",
-    "player_nickname" : "Keita",
+    "player_nickname" : "Seydou Kéita",
     "jersey_number" : 15
   }, {
     "player_id" : 20176,
@@ -198,7 +198,7 @@
   }, {
     "player_id" : 19724,
     "player_name" : "Rafael van der Vaart",
-    "player_nickname" : "Van Der Vaart",
+    "player_nickname" : "Rafael van der Vaart",
     "jersey_number" : 23,
     "country" : {
       "id" : 160,
@@ -225,7 +225,7 @@
   }, {
     "player_id" : 24275,
     "player_name" : "Miguel Palanca Fernández",
-    "player_nickname" : null,
+    "player_nickname" : "Miguel Palanca",
     "jersey_number" : 35,
     "country" : {
       "id" : 214,

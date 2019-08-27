@@ -31,7 +31,7 @@
   }, {
     "player_id" : 5558,
     "player_name" : "Rafael Márquez Álvarez",
-    "player_nickname" : "Rafael Márquez ",
+    "player_nickname" : "Rafael Márquez",
     "jersey_number" : 4,
     "country" : {
       "id" : 147,
@@ -206,7 +206,7 @@
   }, {
     "player_id" : 20016,
     "player_name" : "Kléper Laveran Lima Ferreira",
-    "player_nickname" : "De Lima Ferreira",
+    "player_nickname" : "Pepe",
     "jersey_number" : 3,
     "country" : {
       "id" : 183,
